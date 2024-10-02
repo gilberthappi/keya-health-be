@@ -9,10 +9,7 @@ export const swaggerOptions = {
       },
       servers: [
         {
-          url: 'https://keya-health-backend.onrender.com/api/v1',
-        },
-        {
-          url: 'http://localhost:100/api/v1',
+          url: 'http://localhost:3001/api/v1',
         },
 
       ],
